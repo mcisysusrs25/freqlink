@@ -1,0 +1,1 @@
+This is the project. in which we can manage links, and it is totally based on the local storage. so we do not expose our internal data. 
